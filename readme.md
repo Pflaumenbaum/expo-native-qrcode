@@ -71,5 +71,5 @@ const result = await generateQrCode("Hello World", 5);
 
 ## License
 
-[MIT](https://github.com/ALBUS12345/expo-native-qrcode/blob/main/LICENSE)
+[MIT](https://github.com/Pflaumenbaum/expo-native-qrcode/blob/main/LICENSE)
 
