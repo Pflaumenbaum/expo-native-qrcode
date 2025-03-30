@@ -1,0 +1,10 @@
+{
+  "platforms": ["ios", "tvos", "macos", "apple", "android" ],
+  "ios": {
+    "modules": ["ReactNativeQrcodeIosModule"]
+  },
+
+  "android": {
+    "modules": ["expo.modules.reactnativeqrcodeandroid.ReactNativeQrCodeAndroidModule"]
+  }
+}
