@@ -1,7 +1,7 @@
 {
   "name": "expo-native-qrcode",
-  "version": "0.1.0",
-  "description": "An Expo module that enables the creation of QRCODES using the native CIFilter API from iOS",
+  "version": "1.0.0",
+  "description": "An expo native module for creating and displaying QR codes using the iOS CIFilter API and the Android ZXing library.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
@@ -21,13 +21,13 @@
     "react-native-qrcode-ios",
     "ReactNativeQrcodeIos"
   ],
-  "repository": "https://github.com/ALBUS12345/react-native-qrcode-ios",
+  "repository": "https://github.com/Pflaumenbaum/expo-native-qrcode",
   "bugs": {
-    "url": "https://github.com/ALBUS12345/react-native-qrcode-ios/issues"
+    "url": "https://github.com/Pflaumenbaum/expo-native-qrcode/issues"
   },
-  "author": "ALBUS12345 <114463819+ALBUS12345@users.noreply.github.com> (https://github.com/ALBUS12345)",
+  "author": "Pflaumenbaum <182399538+Pflaumenbaum@users.noreply.github.com> (https://github.com/Pflaumenbaum)",
   "license": "MIT",
-  "homepage": "https://github.com/ALBUS12345/react-native-qrcode-ios#readme",
+  "homepage": "https://github.com/Pflaumenbaum/expo-native-qrcode#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "^18.0.25",
