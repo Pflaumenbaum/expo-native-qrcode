@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary        = 'QRCODE generation using the CIFIlter API'
   s.description    = 'An Expo module that enables the creation of QRCODES using the native CIFilter API from iOS'
   s.author         = ''
-  s.homepage       = 'https://github.com/ALBUS12345/react-native-qrcode-ios'
+  s.homepage       = 'https://github.com/Pflaumenbaum/expo-native-qrcode'
   s.platforms      = { :ios => '13.4', :tvos => '13.4' }
   s.source         = { git: '' }
   s.static_framework = true
